@@ -1,0 +1,12 @@
+<svg width="500" height="200" viewBox="0 0 500 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- MPM Text -->
+  <text x="50" y="140" font-family="Arial" font-size="100" font-weight="bold" fill="#E30613">
+    MPM
+  </text>
+
+  <!-- Green Swirl -->
+  <path d="M120,130 C160,50 250,50 290,130" fill="none" stroke="#00843D" stroke-width="30" stroke-linecap="round" />
+
+  <!-- Red Arrow -->
+  <path d="M290,130 L350,90 L320,130 L350,170 Z" fill="#E30613" />
+</svg>
